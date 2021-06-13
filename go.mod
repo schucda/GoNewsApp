@@ -1,4 +1,4 @@
-module github.com/freshman-tech/news-demo-starter-files
+module github.com/schucda/GoNewsApp
 
 go 1.16
 
